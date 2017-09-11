@@ -1,4 +1,4 @@
 def isOdd(num):
 	if num % 2 == 0:
-		return true
-	return false
+		return True
+	return False
